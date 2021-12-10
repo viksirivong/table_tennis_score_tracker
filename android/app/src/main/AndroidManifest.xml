@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.tsirivong.table_tennis_score_tracker">
    <application
-        android:label="table_tennis_score_tracker"
+        android:label="Table Tennis Score Tracker"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
